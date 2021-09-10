@@ -7,7 +7,7 @@ exibe uma listagem dos filmes originais da netfix, recomendados, em alta, filmes
 [![Downloads Stats][npm-downloads]][npm-url]
 
 ## Gift de demostração do projeto
-![](../header.png)
+![](./src/img/Animação.gif)
 
 ## Instalação
 
