@@ -1,11 +1,12 @@
 # Netflix Clone React JS
 > Este projeto é um clone do netflix em que mostra uma tela de um filmes e logo abaixo
-exibe uma listagem dos filmes originais da netfix, recomendados, em alta, filmes de ação, comédia, terror, romance e documentários, os filmes foram retirados do site themoviedb.org(https://www.themoviedb.org/), usando uma API fornecida pelo site para listar os filmes, o projeto possui as funcionalidades de loading, rolagem lateral dos filmes, bem como efeitos css do banner principal do filmes.
+exibe uma listagem dos filmes originais da netfix, recomendados, em alta, filmes de ação, comédia, terror, romance e documentários, os filmes foram retirados do site [themoviedb.org] (https://www.themoviedb.org/), usando uma API fornecida pelo site para listar os filmes, o projeto possui as funcionalidades de loading, rolagem lateral dos filmes, bem como efeitos css do banner principal do filmes.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
+## Gift de demostração do projeto
 ![](../header.png)
 
 ## Instalação
